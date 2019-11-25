@@ -11,4 +11,6 @@ def fizzbuzz(int)
     puts nil
 end
 end
+fizzbuzz(3)
+fizzbuzz(5)
 fizzbuzz(15)
